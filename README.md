@@ -3,7 +3,7 @@
 **Flixster** is an android app that shows a list of movies with their posters and overviews
 Submitted by: **Yang Xu**
 
-Time spent: **6** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of movies as well as their posters in a list format**
 * [x] User can **rotate the screen in an alternative landscape mode**
-
+* [X] User can **click into a movie to see the thriller, ratings and overview**
 
 ## Video Walkthrough
 
