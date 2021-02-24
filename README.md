@@ -1,9 +1,9 @@
-# Unit 1 - *Flixster*
+# Unit 1 & 2- *Flixster*
 
-**Flixster** is an android app that shows a list of movies with their posters and overviews
+**Flixster** is an android app that shows a list of movies with their posters, overviews and trailers
 Submitted by: **Yang Xu**
 
-Time spent: **3** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of movies as well as their posters in a list format**
 * [x] User can **rotate the screen in an alternative landscape mode**
-* [X] User can **click into a movie to see the thriller, ratings and overview**
+* [X] User can **click into a movie to see the trailer video, ratings and overview**
 
 ## Video Walkthrough
 
