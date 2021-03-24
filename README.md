@@ -1,5 +1,3 @@
-# Unit 1 & 2- *Flixster*
-
 **Flixster** is an android app that shows a list of movies with their posters, overviews and trailers
 Submitted by: **Yang Xu**
 
